@@ -59,3 +59,9 @@ let posMin=tableau.indexOf(valMin);
 let valMax=Math.max(...tableau);
 let posMax=tableau.indexOf(valMax);
 
+console.log(tableau);
+console.log(`valMin=${valMin}==>posMin=${posMin}`)
+console.log(`valMax=${valMax}==>posMax=${posMax}`)
+
+
+
