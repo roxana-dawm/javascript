@@ -84,12 +84,12 @@ console.log(a+x)
 //EXERCICES
 console.log(1.5+1.5*2)=4.5
 console.log((10%6)**2);=16
-console.log(200+0/0);=NaN
+console.log(200+0/0); =NaN
 
 //LES ARRONDIS
 
-console.log(math.floor(x:0.9));  (0)
-console.log(math.floor(x:1.1)); (1)
+console.log(math.floor(x:0.9)) ;(0)
+console.log(math.floor(x:1.1)) ;(1)
 
 
 console.log(math.round(x:0.49)); (0)
@@ -120,6 +120,7 @@ console.log(4==4);true
 console.log(4=='4');  true
 console.log(4==='4'); // les valeurs et les types sont comparés donc c'est false avec 3=
 console.log(4===4); true
+console.log(4 !=4); false //!=different de
+console.log(4!='4');false // compare la valeur de gauche et valeur de droite
+console.log(4!==4);false
 
-
-FIN DU CHAPITRE

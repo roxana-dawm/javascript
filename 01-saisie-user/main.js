@@ -1,5 +1,4 @@
-
-
+/*
 //affiche dans la console
 //console.log("test de connexion!");
 
@@ -33,6 +32,8 @@
 
 //Autres syntaxe (template string) pour faire passer un message "plus facile" et l'anti slash+n=new line pour sauter une ligne
 console.log(`Bonjour ${prenom}\nvous avez ${age}âge`);
+
+*/
 
 
 
