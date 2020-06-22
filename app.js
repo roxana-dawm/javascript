@@ -10,7 +10,6 @@
 //require('./05-objects-fonctions/main');
 
 //require('./exercices/partie1');
-require('./exercices/partie2');
-
-
+//require('./exercices/partie2');
+require('./exercices/partie3');
 
