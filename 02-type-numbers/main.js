@@ -80,7 +80,7 @@ x=3;
 console.log(a+x)
 
 
-*/
+
 //EXERCICES
 console.log(1.5+1.5*2)=4.5
 console.log((10%6)**2);=16
@@ -124,3 +124,4 @@ console.log(4 !=4); false //!=different de
 console.log(4!='4');false // compare la valeur de gauche et valeur de droite
 console.log(4!==4);false
 
+*/

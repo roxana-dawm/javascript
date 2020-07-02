@@ -1,5 +1,5 @@
 //a)
-
+/*
 let tableau=[];
 let posMin;
 let valMin;
@@ -36,7 +36,7 @@ tab.push(alea);
     return tab;
 }
 //2b) une autre facon decrire ,
-/*
+
 let tableau=tableauAleatoire();
 let posMin,valMin,posMax,valMax;
 for (let value of tableau) {
@@ -49,7 +49,7 @@ for (let value of tableau) {
 console.log(tableau);
 console.log(`valMin=${valMin} ==>posMin=${posMin}`);
 console.log(`valMax=${valMax} ==>posMax=${posMax}`);
- */
+
 
 let tableau= tableauAleatoire(10);
 
@@ -62,6 +62,7 @@ let posMax=tableau.indexOf(valMax);
 console.log(tableau);
 console.log(`valMin=${valMin}==>posMin=${posMin}`)
 console.log(`valMax=${valMax}==>posMax=${posMax}`)
+*/
 
 
 
